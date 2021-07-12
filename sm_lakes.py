@@ -1,3 +1,15 @@
+# ----------------------------------------------------------------------------
+# -*- coding: utf-8 -*-
+# @Author:              Gifty Attiah
+# @Date:                2021-05-05
+# @Email:               geattiah@gmail.com
+# @Last Modified By:    Gifty Attiah
+# @Last Modified Time:  Not Tracked
+# 
+# PROGRAM DESCRIPTION:
+# Load tiff file, flatten based on csv and perform calculattion and plot, ice thickness on small lakes
+# ----------------------------------------------------------------------------
+
 import csv
 from PIL import Image
 import pandas as pd
